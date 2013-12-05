@@ -1,17 +1,17 @@
 # Bower package for dat.gui
-This is a bower package for dat.gui.js  
-[https://code.google.com/p/dat-gui/](https://code.google.com/p/dat-gui/)
+This is a bower package for dat.gui.js that includes only the built files  
+Original source code is available at [https://code.google.com/p/dat-gui/](https://code.google.com/p/dat-gui/)
 
 
 ## Install
+Run in command line:   
 `bower install dat.gui`
 
-Add a `<script>` to your `index.html`:
-
+Add to `index.html`:  
 `<script src="/bower_components/angular/angular.js"></script>`
 
 ##Documentation
-documentation is available at [https://code.google.com/p/dat-gui/](https://code.google.com/p/dat-gui/)  
+Documentation is available at [https://code.google.com/p/dat-gui/](https://code.google.com/p/dat-gui/)  
 
 
 ##License
