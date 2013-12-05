@@ -8,7 +8,7 @@ Run in command line:
 `bower install dat.gui`
 
 Add to `index.html`:  
-`<script src="/bower_components/angular/angular.js"></script>`
+`<script src="/bower_components/dat.gui/dat.gui.js"></script>`
 
 ##Documentation
 Documentation is available at [https://code.google.com/p/dat-gui/](https://code.google.com/p/dat-gui/)  
